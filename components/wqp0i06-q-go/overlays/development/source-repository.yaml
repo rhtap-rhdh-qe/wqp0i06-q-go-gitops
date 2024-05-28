@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wqp0i06-q-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/wqp0i06-q-go
